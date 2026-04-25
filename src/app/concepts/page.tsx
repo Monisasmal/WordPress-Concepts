@@ -2,6 +2,7 @@ import Link from "next/link";
 
 const concept = [
      {name: "What is WordPress? How does it work internally??", path:"/concepts/WhatIsWordPress"},
+     {name: "What is WordPress.com vs WordPress.org??", path:"/concepts/WordPressComVsOrg"},
      
 ];
 
