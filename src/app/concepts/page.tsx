@@ -7,6 +7,7 @@ const concept = [
      {name: "What are the limitations of WordPress?", path:"/concepts/WordPressLimitations"},
      {name: "How to install WordPress manually?", path:"/concepts/InstallWordPressManually"},
      {name: "What are the system requirements?", path:"/concepts/WordPressSystemRequirements"},
+     {name: "What is localhost? How to set up using XAMPP/WAMP?", path:"/concepts/LocalhostSetup"},
 ];
 
 export default function Concepts(){
