@@ -6,6 +6,7 @@ const concept = [
      {name: "Why Use WordPress Over Custom Development?", path:"/concepts/WhyUseWordPress"},
      {name: "What are the limitations of WordPress?", path:"/concepts/WordPressLimitations"},
      {name: "How to install WordPress manually?", path:"/concepts/InstallWordPressManually"},
+     {name: "What are the system requirements?", path:"/concepts/WordPressSystemRequirements"},
 ];
 
 export default function Concepts(){
