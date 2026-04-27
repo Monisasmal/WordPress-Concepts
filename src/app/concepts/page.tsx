@@ -9,6 +9,7 @@ const concept = [
      {name: "What are the system requirements?", path:"/concepts/WordPressSystemRequirements"},
      {name: "What is localhost? How to set up using XAMPP/WAMP?", path:"/concepts/LocalhostSetup"},
      {name: "What is the WordPress dashboard? ?", path:"/concepts/WordPressDashboard"},
+     {name: "What are Posts and Pages in WordPress?", path:"/concepts/PostsVsPages"},
 ];
 
 export default function Concepts(){
