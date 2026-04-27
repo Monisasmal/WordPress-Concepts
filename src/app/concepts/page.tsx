@@ -11,6 +11,7 @@ const concept = [
      {name: "What is the WordPress dashboard? ?", path:"/concepts/WordPressDashboard"},
      {name: "What are Posts and Pages in WordPress?", path:"/concepts/PostsVsPages"},
      {name: "What are  Difference Between Posts and Pages?", path:"/concepts/PostsVsPagesDifference"},
+     {name: "What is Media Library in WordPress?", path:"/concepts/MediaLibrary"},
 ];
 
 export default function Concepts(){
