@@ -13,6 +13,7 @@ const concept = [
      {name: "What are  Difference Between Posts and Pages?", path:"/concepts/PostsVsPagesDifference"},
      {name: "What is Media Library in WordPress?", path:"/concepts/MediaLibrary"},
      {name: "What are Categories in WordPress?", path:"/concepts/CategoriesInWordPress"},
+     {name: "What are Tags in WordPress?", path:"/concepts/TagsInWordPress"},
 ];
 
 export default function Concepts(){
