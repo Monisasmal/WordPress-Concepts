@@ -15,6 +15,7 @@ const concept = [
      {name: "What are Categories in WordPress?", path:"/concepts/CategoriesInWordPress"},
      {name: "What are Tags in WordPress?", path:"/concepts/TagsInWordPress"},
      {name: "Difference Between Categories and Tags?", path:"/concepts/CategoriesVsTags"},
+     {name: "What is a Slug in WordPress?", path:"/concepts/SlugInWordPress"},
 ];
 
 export default function Concepts(){
