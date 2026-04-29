@@ -63,6 +63,33 @@ export default function WordPressTheme() {
             </ul>
           </section>
 
+          {/* Examples */}
+          <section className="bg-blue-50 shadow-sm rounded-xl p-4 sm:p-6">
+            <h2 className="text-lg sm:text-xl md:text-2xl font-semibold mb-2">
+              3. Popular Theme Examples
+            </h2>
+
+            <p className="text-sm sm:text-base text-gray-700 mb-2 font-medium">
+              Free Themes:
+            </p>
+            <ul className="list-disc ml-5 text-sm sm:text-base text-gray-700 space-y-1">
+              <li>Astra</li>
+              <li>OceanWP</li>
+              <li>GeneratePress</li>
+              <li>Neve</li>
+            </ul>
+
+            <p className="text-sm sm:text-base text-gray-700 mt-4 mb-2 font-medium">
+              Premium Themes:
+            </p>
+            <ul className="list-disc ml-5 text-sm sm:text-base text-gray-700 space-y-1">
+              <li>Divi</li>
+              <li>Avada</li>
+              <li>Flatsome</li>
+              <li>Enfold</li>
+            </ul>
+          </section>
+
           {/* How */}
           <section className="bg-blue-50 shadow-sm rounded-xl p-4 sm:p-6">
             <h2 className="text-lg sm:text-xl md:text-2xl font-semibold mb-2">
