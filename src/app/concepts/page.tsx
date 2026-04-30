@@ -21,6 +21,7 @@ const concept = [
      {name: "Difference Between Free and Premium Themes?", path:"/concepts/FreeVsPremiumThemes"},
      {name: "What is a Plugin in WordPress?", path:"/concepts/WhatIsPlugin"},
      {name: "How to Install Plugins in WordPress?", path:"/concepts/InstallPlugins"},
+     {name: "How to Update Plugins in WordPress?", path:"/concepts/UpdatePlugins"},
 ];
 
 export default function Concepts(){
