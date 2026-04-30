@@ -19,6 +19,7 @@ const concept = [
      {name: "What is a Theme in WordPress ?", path:"/concepts/WordPressTheme"},
      {name: "How to Install and Activate a Theme in WordPress?", path:"/concepts/InstallActivateTheme"},
      {name: "Difference Between Free and Premium Themes?", path:"/concepts/FreeVsPremiumThemes"},
+     {name: "What is a Plugin in WordPress?", path:"/concepts/WhatIsPlugin"},
 ];
 
 export default function Concepts(){
