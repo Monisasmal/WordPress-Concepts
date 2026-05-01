@@ -23,7 +23,8 @@ const concept = [
      {name: "How to Install Plugins in WordPress?", path:"/concepts/InstallPlugins"},
      {name: "How to Update Plugins in WordPress?", path:"/concepts/UpdatePlugins"},
      {name: "What are Permalinks in WordPress?", path:"/concepts/WhatArePermalinks"},
-     {name: "What are Widgets in WordPress ?", path:"/concepts/WhatAreWidgets"},
+     {name: "What are Widgets in WordPress?", path:"/concepts/WhatAreWidgets"},
+     {name: "What are Menus in WordPress?", path:"/concepts/WhatAreMenus"},
 ];
 
 export default function Concepts(){
