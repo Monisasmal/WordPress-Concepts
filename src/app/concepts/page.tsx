@@ -26,6 +26,7 @@ const concept = [
      {name: "What are Widgets in WordPress?", path:"/concepts/WhatAreWidgets"},
      {name: "What are Menus in WordPress?", path:"/concepts/WhatAreMenus"},
      {name: "What is a Child Theme in WordPress?", path:"/concepts/WhatIsChildTheme"},
+     {name: "What is Template Hierarchy in WordPress?", path:"/concepts/WhatIsTemplateHierarchy"},
 ];
 
 export default function Concepts(){
