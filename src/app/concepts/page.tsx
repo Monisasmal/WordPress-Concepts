@@ -29,6 +29,7 @@ const concept = [
      {name: "What is Template Hierarchy in WordPress?", path:"/concepts/WhatIsTemplateHierarchy"},
      {name: "What is header.php, footer.php, index.php in WordPress?", path:"/concepts/TemplateFilesBasics"},
      {name: "What are Hooks in WordPress?", path:"/concepts/WhatAreHooks"},
+     {name: "Difference Between Action and Filter in WordPress?", path:"/concepts/ActionVsFilter"},
 ];
 
 export default function Concepts(){
