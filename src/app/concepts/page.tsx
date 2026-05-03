@@ -30,6 +30,7 @@ const concept = [
      {name: "What is header.php, footer.php, index.php in WordPress?", path:"/concepts/TemplateFilesBasics"},
      {name: "What are Hooks in WordPress?", path:"/concepts/WhatAreHooks"},
      {name: "Difference Between Action and Filter in WordPress?", path:"/concepts/ActionVsFilter"},
+     {name: "Examples of add_action() and add_filter() in WordPress?", path:"/concepts/HookExamples"},
 ];
 
 export default function Concepts(){
