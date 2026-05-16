@@ -34,6 +34,7 @@ const concept = [
      {name: "What are User Roles in WordPress?", path:"/concepts/WhatAreUserRoles"},
      {name: "What is a Custom Post Type in WordPress?", path:"/concepts/WhatIsCustomPostType"},
      {name: "What is Taxonomy in WordPress?", path:"/concepts/WhatIsTaxonomy"},
+     {name: "Difference Between Default and Custom Taxonomy?", path:"/concepts/DefaultVsCustomTaxonomy"},
 ];
 
 export default function Concepts(){
