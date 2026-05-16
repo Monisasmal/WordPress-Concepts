@@ -33,6 +33,7 @@ const concept = [
      {name: "Examples of add_action() and add_filter() in WordPress?", path:"/concepts/HookExamples"},
      {name: "What are User Roles in WordPress?", path:"/concepts/WhatAreUserRoles"},
      {name: "What is a Custom Post Type in WordPress?", path:"/concepts/WhatIsCustomPostType"},
+     {name: "What is Taxonomy in WordPress?", path:"/concepts/WhatIsTaxonomy"},
 ];
 
 export default function Concepts(){
