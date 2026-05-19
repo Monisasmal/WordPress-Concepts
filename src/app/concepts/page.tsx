@@ -37,6 +37,7 @@ const concept = [
      {name: "Difference Between Default and Custom Taxonomy?", path:"/concepts/DefaultVsCustomTaxonomy"},
      {name: "How Plugins Interact with WordPress Core?", path:"/concepts/PluginsInteractWithCore"},
      {name: "What is Plugin Structure in WordPress?", path:"/concepts/PluginStructure"},
+     {name: " What is On-Page SEO?", path:"/concepts/WhatIsOnPageSEO"},
 ];
 
 export default function Concepts(){
