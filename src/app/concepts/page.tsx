@@ -38,6 +38,7 @@ const concept = [
      {name: "How Plugins Interact with WordPress Core?", path:"/concepts/PluginsInteractWithCore"},
      {name: "What is Plugin Structure in WordPress?", path:"/concepts/PluginStructure"},
      {name: "What is On-Page SEO?", path:"/concepts/WhatIsOnPageSEO"},
+     {name: "How to Optimize a WordPress Site?", path:"/concepts/OptimizeWordPressSite"},
 ];
 
 export default function Concepts(){
