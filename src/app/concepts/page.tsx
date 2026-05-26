@@ -43,6 +43,7 @@ const concept = [
      {name: "How to Improve WordPress Performance?", path:"/concepts/ImproveWordPressPerformance"},
      {name: "How to Create a Custom WordPress Plugin?", path:"/concepts/CreateCustomPlugin"},
      {name: "What is WP_Query in WordPress?", path:"/concepts/WhatIsWPQuery"},
+     {name: "Difference Between WP_Query, get_posts() and query_posts()?", path:"/concepts/DifferenceBetweenQueries"},
 ];
 
 export default function Concepts(){
