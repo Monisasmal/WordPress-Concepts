@@ -191,7 +191,7 @@ $query = new WP_Query($args);`}
             </pre>
 
             <p className="text-sm text-gray-800 mt-2">
-              👉 Searches posts containing "React"
+              👉 Searches posts containing &quot;React&quot;
             </p>
           </section>
 

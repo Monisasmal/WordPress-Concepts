@@ -42,6 +42,7 @@ const concept = [
      {name: "What is Caching in WordPress?", path:"/concepts/WhatIsCaching"},
      {name: "How to Improve WordPress Performance?", path:"/concepts/ImproveWordPressPerformance"},
      {name: "How to Create a Custom WordPress Plugin?", path:"/concepts/CreateCustomPlugin"},
+     {name: "What is WP_Query in WordPress?", path:"/concepts/WhatIsWPQuery"},
 ];
 
 export default function Concepts(){
