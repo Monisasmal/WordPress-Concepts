@@ -85,7 +85,7 @@ export default function WordPressStoresPostsMetadata() {
             </pre>
 
             <p className="text-sm text-gray-800 mt-2">
-              👉 Everything is treated as a "post" internally
+              👉 Everything is treated as a &quot;post&quot; internally
             </p>
           </section>
 
