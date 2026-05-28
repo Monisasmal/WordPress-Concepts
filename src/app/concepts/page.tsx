@@ -45,6 +45,7 @@ const concept = [
      {name: "What is WP_Query in WordPress?", path:"/concepts/WhatIsWPQuery"},
      {name: "Difference Between WP_Query, get_posts() and query_posts()?", path:"/concepts/DifferenceBetweenQueries"},
      {name: "How WordPress Stores Posts and Metadata?", path:"/concepts/WordPressStoresPostsMetadata"},
+     {name: "How to Secure WordPress?", path:"/concepts/SecureWordPress"},
 ];
 
 export default function Concepts(){
