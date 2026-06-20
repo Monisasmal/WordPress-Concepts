@@ -1,4 +1,14 @@
-🙋‍♀️ Author - Manaswini Sasmal
+# WordPress Concepts
+
+A comprehensive collection of WordPress concepts designed for beginners, developers, job seekers, and professionals who want to master WordPress from fundamentals to advanced topics.
+
+The project provides clear explanations, practical examples, interview-focused notes, and real-world use cases to help you understand how WordPress works internally and how to build secure, scalable websites.
+
+---
+
+
+
+## 🙋‍♀️ Author - Manaswini Sasmal
 
 📲 - 6370094643
 
