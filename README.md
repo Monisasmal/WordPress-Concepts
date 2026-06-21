@@ -143,6 +143,92 @@ Topics include:
 - wp_term_taxonomy
 - wp_term_relationships
 
+### Metadata
+
+- get_post_meta()
+- update_post_meta()
+
+---
+
+## Queries
+
+### WP_Query
+
+Topics covered:
+
+- Custom Queries
+- Search Queries
+- Category Queries
+- Pagination
+- Query Optimization
+
+### Comparison
+
+- WP_Query
+- get_posts()
+- query_posts()
+
+---
+
+## SEO
+
+### On-Page SEO
+
+Topics include:
+
+- Title Tags
+- Meta Descriptions
+- Internal Linking
+- Image Optimization
+- Headings Structure
+
+---
+
+## Performance
+
+Topics covered:
+
+### Caching
+
+- Browser Cache
+- Object Cache
+- Page Cache
+
+### Optimization
+
+- CDN
+- Image Compression
+- Database Cleanup
+- Lazy Loading
+- Minification
+
+Plugins used:
+
+- WP Rocket
+- LiteSpeed Cache
+- Autoptimize
+
+---
+
+## Security
+
+Learn how to secure WordPress websites.
+
+Covered topics:
+
+### Best Practices
+
+- SSL
+- HTTPS
+- Strong Passwords
+- 2FA
+- File Permissions
+- Firewall
+- Security Plugins
+- XML-RPC Protection
+- Database Prefix Security
+- Backups
+
 
 
 ## 🙋‍♀️ Author - Manaswini Sasmal
