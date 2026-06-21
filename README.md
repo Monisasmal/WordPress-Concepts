@@ -36,6 +36,70 @@ The project provides clear explanations, practical examples, interview-focused n
 - Template Hierarchy
 - Theme Files
 
+### Theme Examples
+
+- Astra
+- OceanWP
+- GeneratePress
+- Kadence
+- Neve
+- Blocksy
+- Divi
+- Avada
+- Hello Elementor
+
+---
+
+## Plugins
+
+- What is a Plugin?
+- Plugin Installation
+- Plugin Updates
+- Plugin Structure
+- Plugin Development
+- Plugin Interaction with Core
+
+### Popular Plugins
+
+#### SEO
+
+- Yoast SEO
+- Rank Math
+- All in One SEO
+
+#### Security
+
+- Wordfence
+- Sucuri
+- iThemes Security
+
+#### Performance
+
+- WP Rocket
+- LiteSpeed Cache
+- W3 Total Cache
+
+#### Backup
+
+- UpdraftPlus
+- BackupBuddy
+
+#### Forms
+
+- Contact Form 7
+- WPForms
+
+#### Page Builders
+
+- Elementor
+- Beaver Builder
+
+#### Ecommerce
+
+- WooCommerce
+
+---
+
 
 
 ## 🙋‍♀️ Author - Manaswini Sasmal
