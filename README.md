@@ -6,6 +6,36 @@ The project provides clear explanations, practical examples, interview-focused n
 
 ---
 
+# 📚 Topics Covered
+
+## WordPress Fundamentals
+
+- What is WordPress?
+- WordPress.com vs WordPress.org
+- Why choose WordPress?
+- WordPress limitations
+- Manual installation
+- System requirements
+- Localhost setup using XAMPP/WAMP
+- WordPress Dashboard
+- Posts and Pages
+- Categories
+- Tags
+- Slugs
+- Media Library
+- Permalinks
+
+---
+
+## Themes
+
+- What is a Theme?
+- Theme Installation
+- Free vs Premium Themes
+- Child Themes
+- Template Hierarchy
+- Theme Files
+
 
 
 ## 🙋‍♀️ Author - Manaswini Sasmal
