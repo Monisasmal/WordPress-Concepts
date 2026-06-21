@@ -100,6 +100,49 @@ The project provides clear explanations, practical examples, interview-focused n
 
 ---
 
+## Development Concepts
+
+- Hooks
+- Actions
+- Filters
+- add_action()
+- add_filter()
+
+---
+
+## Users
+
+- User Roles
+- Permissions
+- Authentication
+
+---
+
+## Content Types
+
+- Custom Post Types
+- Taxonomies
+- Default Taxonomies
+- Custom Taxonomies
+
+---
+
+## Database
+
+Learn how WordPress stores data internally.
+
+Topics include:
+
+### Database Tables
+
+- wp_posts
+- wp_postmeta
+- wp_users
+- wp_usermeta
+- wp_terms
+- wp_term_taxonomy
+- wp_term_relationships
+
 
 
 ## 🙋‍♀️ Author - Manaswini Sasmal
